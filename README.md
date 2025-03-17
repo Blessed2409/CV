@@ -1,2 +1,2 @@
-# -Blessed2409--HTML-CSS-
-Сайт
+# cv_test
+Сайт-визика на HTML + CSS + JS
